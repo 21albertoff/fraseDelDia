@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Página web que muestra frases del día">
+    <meta name="keywords" content="frase, autor, inspiración, postureo">
+    <meta name="author" content="Alberto Fuentes">
+
+    <!-- Favicon -->
+    <link rel="icon" href="resources/img/favicon.png" type="image/x-icon">
+
+    <!-- Título de la página -->
+    <title>Frases del Día</title>
+
+    <!-- Estilos CSS -->
+    <link rel="stylesheet" href="resources/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+
+
+    <meta name="theme-color" content="var(--primary)" />
+</head>
+
+<body>
+    <div class="container">
+        <div id="elemento-captura">
+            <p id="frase" class="frase"></p>
+            <p id="autor" class="autor"></p>
+            <p>#FraseDelDia</p>
+        </div>
+        <div class="redes-sociales">
+            <a onclick="compartirPorWhatsApp()" class="red-social"><i class="fa fa-whatsapp"></i></a>
+            <a onclick="compartirPorTwitter()" class="red-social"><i class="fa fa-twitter"></i></a>
+        </div>
+    </div>
+    <div id="contenedor-imagen"></div>
+    <footer>
+        <p>Hecho con muchos 🥐 por <a href="https://twitter.com/21albertoff">Alberto Fuentes</a>
+        </p>
+    </footer>
+    <script src="resources/js/frases.js"></script>
+    <script src="resources/js/script.js"></script>
+</body>
+
+</html>

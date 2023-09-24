@@ -1,0 +1,82 @@
+:root {
+    --primary: yellow;
+}
+
+@font-face {
+    font-family: BillionDreams;
+    src: url('../fonts/BillionDreams.ttf');
+}
+
+@font-face {
+    font-family: MondayDonuts;
+    src: url('../fonts/MondayDonuts.ttf');
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: MondayDonuts, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+
+.frase {
+    color: #fff;
+    font-size: 3em;
+    font-family: MondayDonuts
+}
+
+.autor {
+    color: var(--primary);
+    font-size: 2.5em;
+    font-family: BillionDreams;
+}
+
+.redes-sociales {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.red-social {
+    display: inline-block;
+    color: var(--primary);
+    border-radius: 50%;
+    border: 2px solid var(--primary);
+    width: 40px;
+    height: 40px;
+    line-height: 43px;
+    text-align: center;
+    margin: 5px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.red-social:hover {
+    background-color: var(--primary);
+    color: black;
+
+}
