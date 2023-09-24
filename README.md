@@ -3,8 +3,6 @@
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Completo-brightgreen)](https://github.com/tuusuario/frasedeldia)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 
-## Descripción
-
 🌞 Este proyecto es una aplicación web realizada con JavaScript, HTML y CSS que muestra una frase inspiradora cada vez que se abre la pagina. Los usuarios pueden generar y compartir estas frases en redes sociales mediante WhatsApp y Twitter. 
 
 ## Capturas de Pantalla
