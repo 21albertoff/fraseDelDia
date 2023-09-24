@@ -9,7 +9,7 @@
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](resources/img/screenshot1.png)
+![Captura de Pantalla 1](https://github.com/21albertoff/fraseDelDia/blob/main/resources/img/screenshot1.PNG)
 
 ## Características
 
