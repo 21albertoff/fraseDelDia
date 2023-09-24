@@ -7,7 +7,7 @@
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](resources/img/screenshot1.png)
+![Captura de Pantalla 1](https://github.com/21albertoff/fraseDelDia/blob/main/resources/img/screenshot1.PNG)
 
 ## Características
 
@@ -16,7 +16,7 @@
 
 ## Estado del Proyecto
 
-Este proyecto se considera iniciado y está disponible para su uso y contribución.
+Este proyecto se considera iniciado y está disponible para su uso y contribución. Si quiere contribuir añadiendo frases vaya a la carpeta `resources/js/frases.js` siga la estructura y el procedimiento marcado en [contribución](https://github.com/21albertoff/fraseDelDia/tree/main#contribuci%C3%B3n).
 
 Mejoras pendientes
 
