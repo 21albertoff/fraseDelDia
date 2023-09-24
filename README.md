@@ -18,7 +18,7 @@
 
 ## Estado del Proyecto
 
-Este proyecto se considera iniciado y está disponible para su uso y contribución.
+Este proyecto se considera iniciado y está disponible para su uso y contribución. Si quiere contribuir añadiendo frases vaya a la carpeta `resources/js/frases.js` siga la estructura y el procedimiento marcado en [contribución](https://github.com/21albertoff/fraseDelDia/edit/main/README.md#contribuci%C3%B3n).
 
 Mejoras pendientes
 
