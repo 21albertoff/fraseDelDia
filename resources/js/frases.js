@@ -40,5 +40,6 @@ const frases = [
     { frase: "Nunca es tarde para ser lo que podrías haber sido.", autor: "George Eliot" },
     { frase: "La vida es corta, sonríe mientras todavía tienes dientes.", autor: "Anónimo" },
     { frase: "Esta pagina de frases la cree comiendome un croissant. ¡Asi da gusto!", autor: "Alberto Fuentes" },
+    { frase: "RECONOCER es una palabra tan importante que se escribe igual al derecho que al revés.", autor:"Anónimo"},
 ];
 
